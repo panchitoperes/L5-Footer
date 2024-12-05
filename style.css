@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top {
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.foot-logo {
+    padding: 20px;
+}
+.top-right {
+    display: flex;
+    justify-content: space-between;
+}
+.top-left {
+    align-content: center;
+}
+.bottom {
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-left {
+    font-weight: 400;
+}
+
+nav {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+ul {
+    padding-left: 0;
+}
+li {
+    align-content: center;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+}
+p {
+    color: gray; 
+}
